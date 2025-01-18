@@ -12,6 +12,7 @@ main{
     color: #faf4f4;
     padding: 20px;
     margin: auto;
+    border-radius: 5px;
 }
 
 img{
