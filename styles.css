@@ -1,13 +1,17 @@
 body{
     background-color: #000;
+    padding: 50px;
+   
 }
 
 main{
+    width: 700px;
     box-sizing: border-box;
     text-align: center;
-    background-color: #000;
+    background-color: #683f3f;
     color: #faf4f4;
     padding: 20px;
+    margin: auto;
 }
 
 img{
@@ -17,7 +21,7 @@ img{
 }
 
 p{
-    padding: 0 200px;
+    padding: 0 20px;
 }
 
 .grid-container{
